@@ -1,0 +1,16 @@
+{
+  "loaderVersion": "0.7.3",
+  "gameVersion": "0.71.5",
+  "minBootstrapVersion": "1.0.0",
+  "updateUrl": "https://raw.githubusercontent.com/xsaiixdwgz215217678/stumbledark-files-/main/manifest.json",
+  "files": [
+    {
+      "path": "version.dll",
+      "url": "https://github.com/xsaiixdwgz215217678/stumbledark-files-/releases/download/v1.0.0/version.dll",
+      "sha256": "0ce7a4e530c7f83f172a2c44aed45eedb3bdcf06b83760f143a0fba6885fa929",
+      "size": 11059200,
+      "critical": true,
+      "category": "loader"
+    }
+  ]
+}
